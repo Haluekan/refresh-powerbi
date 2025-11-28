@@ -1,0 +1,13 @@
+program
+C:\Users\adm-haluekan.ta\AppData\Local\Microsoft\WindowsApps\python.exe
+argument
+D:\python\python\sqlserver\....py
+start in
+D:\python\python\sqlserver
+
+
+log
+D:\OneDrive - Datamars SA\General - IT (Datamars Thailand)\8. Power Platform\Power BI\DATA\export data\logfile\
+
+excel
+D:\OneDrive - Datamars SA\General - IT (Datamars Thailand)\8. Power Platform\Power BI\DATA\export data\
